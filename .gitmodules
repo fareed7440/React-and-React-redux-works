@@ -1,0 +1,6 @@
+[submodule "React Projects/invite/inviteApp"]
+	path = React Projects/invite/inviteApp
+	url = https://syedfareedullah@bitbucket.org/syedfareedullah/inviteapp.git
+[submodule "React Projects/pasword_jest/jest"]
+	path = React Projects/pasword_jest/jest
+	url = https://syedfareedullah@bitbucket.org/syedfareedullah/password.git
