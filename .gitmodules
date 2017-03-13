@@ -4,3 +4,6 @@
 [submodule "React Projects/pasword_jest/jest"]
 	path = React Projects/pasword_jest/jest
 	url = https://syedfareedullah@bitbucket.org/syedfareedullah/password.git
+[submodule "React Projects/nile_Book_store/nile-book"]
+	path = React Projects/nile_Book_store/nile-book
+	url = https://syedfareedullah@bitbucket.org/syedfareedullah/nile_book.git
